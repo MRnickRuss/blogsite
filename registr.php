@@ -1,5 +1,3 @@
-<?php require_once 'include/DB.php';
-?>
 <!DOCTYPE html>
 <html>
 	<head>
